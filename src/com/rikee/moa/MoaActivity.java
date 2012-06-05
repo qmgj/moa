@@ -1,6 +1,7 @@
 package com.rikee.moa;
 
 import org.apache.cordova.DroidGap;
+
 import android.os.Bundle;
 
 public class MoaActivity extends DroidGap {
